@@ -1,7 +1,7 @@
 {
   "name": "swagger-tagger",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Validate and format swagger tags",
   "license": "MIT",
   "repository": "bendrucker/swagger-tagger",
