@@ -1,4 +1,4 @@
-# swagger-tagger [![Build Status](https://travis-ci.org/bendrucker/swagger-tagger.svg?branch=master)](https://travis-ci.org/bendrucker/swagger-tagger)
+# swagger-tagger [![Build Status](https://travis-ci.org/bendrucker/swagger-tagger.svg?branch=master)](https://travis-ci.org/bendrucker/swagger-tagger) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/swagger-tagger.svg)](https://greenkeeper.io/)
 
 > Validate and format swagger tags
 
